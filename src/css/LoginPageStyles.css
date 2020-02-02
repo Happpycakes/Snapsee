@@ -1,0 +1,41 @@
+#main-img {
+    padding-top: 5px;
+    margin-left: 15px;
+    width: 100vw;
+}
+
+#snapAdding {
+    padding-top: 30px;
+    font-size: 32px;
+    margin-left: 8px;
+    color: #000;
+    text-shadow: 2px 2px #000;
+}
+
+#login-button-target{
+    padding-top: 10px; 
+}
+
+body{
+    background-image: url("https://66.media.tumblr.com/08fac8a956a639ff570087509560f2ff/tumblr_ppy871LxSu1yn6gjno1_1280.png");
+    background-color: #666;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+}
+
+#instructions{
+    color: black;
+    line-height: 40px;
+    width: 100vw;
+}
+
+#instructionTitle{
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    color: black;
+    padding-top: 35px;
+    width: 100vw; 
+}
