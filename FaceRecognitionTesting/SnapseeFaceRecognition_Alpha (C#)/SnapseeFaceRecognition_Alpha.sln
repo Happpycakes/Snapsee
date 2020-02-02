@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapseeFaceRecognition_Alpha", "SnapseeFaceRecognition_Alpha\SnapseeFaceRecognition_Alpha.csproj", "{19BF3EC1-F351-490E-A62D-F903EA28FCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BF3EC1-F351-490E-A62D-F903EA28FCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BF3EC1-F351-490E-A62D-F903EA28FCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BF3EC1-F351-490E-A62D-F903EA28FCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BF3EC1-F351-490E-A62D-F903EA28FCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34DBD89D-18B4-4638-9792-FE87186EDCA0}
+	EndGlobalSection
+EndGlobal
